@@ -1,3 +1,5 @@
+//Thijmen was here
+
 const fs = require('fs');
 const Arpad = require('arpad');
 const elo = new Arpad();
